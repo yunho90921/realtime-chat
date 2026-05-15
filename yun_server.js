@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
   res.send(`
     <html>
     <body>
-      <h2>실시간 최윤호 채팅 서버 구현</h2>
+      <h2>실시간 최윤호 두번째 채팅 서버 구현</h2>
 
       <input id="msg" />
       <button onclick="sendMsg()">전송</button>
